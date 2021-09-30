@@ -1,3 +1,5 @@
+<!-- when editing this file also update https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md -->
+
 Contributing to Flutter
 =======================
 
