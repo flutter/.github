@@ -2,8 +2,9 @@
 
 # Code of conduct
 
-We expect Flutter's contributors to act professionally and respectfully, and
-we expect our social spaces to be safe and dignified environments.
+The Flutter project expects Flutter's contributors to act professionally
+and respectfully. Flutter contributors are expected to maintain the safety
+and dignifity of Flutter's social environments (such as GitHub and Discord).
 
 Specifically:
 
@@ -14,9 +15,9 @@ Specifically:
 Should you experience anything that makes you feel unwelcome in Flutter's
 community, please contact [conduct@flutter.dev](mailto:conduct@flutter.dev)
 or, if you prefer, directly contact someone on the team, for instance
-[Hixie](mailto:ian@hixie.ch) or [Tim](mailto:timsneath@google.com). We will
-not tolerate harassment from anyone in Flutter's community, even outside
-of Flutter's public communication channels.
+[Hixie](mailto:ian@hixie.ch) or [Tim](mailto:timsneath@google.com). The
+Flutter team will not tolerate harassment from anyone in Flutter's community,
+even outside of Flutter's public communication channels.
 
 ## Conflict resolution
 
