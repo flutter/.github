@@ -32,7 +32,7 @@ This is usually sufficient to resolve issues. If you cannot come to an
 agreement, ask for the advice of a more senior member of the project.
 
 Be wary of agreement by attrition, where one person argues a point
-repeatedly until other participants give up in the interests of moving
+repeatedly until other participants give up in the interest of moving
 on. This is not conflict resolution, as it does not address everyone's
 concerns. Be wary of agreement by compromise, where two good competing
 solutions are merged into one mediocre solution. A conflict is
