@@ -54,6 +54,8 @@ When the issue is resolved, they will contact the release team and our PR team t
 Security issues have the equivalent of a P0 priority level, but (other than via issue 72555) are
 not tracked explicitly in the issue database. This means that we attempt to fix them as quickly as possible.
 
+Flutter does not have a bug bounty program.
+
 For more information on security advisories, see [the GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/managing-security-vulnerabilities-in-your-project).
 
 If team members need additional help from Google, as a Googler, they can see go/vuln.
