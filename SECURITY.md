@@ -11,7 +11,6 @@ We will release a beta or hotfix for any major security issues found in the most
 
 Any vulnerability reported for any Flutter websites like flutter.dev does not require a release and will be 
 fixed in the website itself.
-Security issues (other than via issue [72555](https://github.com/flutter/flutter/issues/72555)) are not tracked explicitly in the issue database. 
 
 ## Reporting a Vulnerability
 
@@ -32,6 +31,10 @@ vulnerabilities in public if that could put users at risk.
 If you believe that an existing issue is security-related, we ask that you send an 
 email to `security@flutter.dev`. The email should include the issue ID and a short 
 description of why it should be handled according to this security policy.
+
+Security issues (other than via issue [72555](https://github.com/flutter/flutter/issues/72555)) are not tracked 
+explicitly in the issue database. 
+
 
 ## Disclosure Process
 
