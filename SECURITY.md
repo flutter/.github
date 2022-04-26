@@ -44,29 +44,28 @@ who have been designated the "vulnerability management team" receive these e-mai
 such an e-mail, they will:
 
 1. Reply to the email acknowledging its receipt, cc'ing `security@flutter.dev` so that the other 
-members of the team are aware that they are handling the security report. If the email does not describe
-an actual vulnerability, the process will stop here. (Unfortunately, we do receive spam at this 
-address, and well-meaning but ultimately misguided reports that do not represent issues for which this 
-process is appropriate.)
+   members of the team are aware that they are handling the security report. If the email does not describe
+   an actual vulnerability, the process will stop here. (Unfortunately, we do receive spam at this 
+   address, and well-meaning but ultimately misguided reports that do not represent issues for which this 
+   process is appropriate.)
 2. Vulnerability management team member will triage the report to evaluate its impact and if it is a security vulnerability.
 3. Vulnerability management team member will work with the team lead to ensure that an owner is assigned to the report. 
-The owner will drive it through the fix and release process.
+   The owner will drive it through the fix and release process.
 4. Vulnerability management team member will work with the team and product manager to determine if the security report 
-requires a security advisory.
+   requires a security advisory.
 5. If an advisory is required, the vulnerability management team member will create a new 
-[security advisory](https://github.com/flutter/flutter/security/advisories/new). 
-One must be the repo admin to do this. Vulnerability management team members who are not also a repo admin will 
-reach out to the repo admins until they find one who can create the advisory. The repo admins
-who are also vulnerability management team members are @Hixie and @tvolkert.
+   [security advisory](https://github.com/flutter/flutter/security/advisories/new). 
+   One must be the repo admin to do this. Vulnerability management team members who are not also a repo admin will 
+   reach out to the repo admins until they find one who can create the advisory. The repo admins
+   who are also vulnerability management team members are @Hixie and @tvolkert.
 6. Vulnerability management team member will add the vulnerability reporter, relevant team lead and fix owner to the 
-security advisory [Add the reporter](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/adding-a-collaborator-to-a-security-advisory) to the security advisory so that they can get updates.
+   security advisory [Add the reporter](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/adding-a-collaborator-      to-a-security-advisory) to the security advisory so that they can get updates.
 8. Every security advisory will have a CVE number. As a Googler they can request a CVE number from go/cve-request.
 9. Reopen [Issue 72555](https://github.com/flutter/flutter/issues/72555) to ensure that security vulnerabilities
    will be checked during critical triage.
 10. As the fix is being developed, vulnerability management team member will reach out to the reporter to ask them if they would 
-like to be involved and whether they would like to be credited. For credit, the GitHub security advisory 
-UI has a field that allows contributors to be credited.
-11. When the security issue is resolved, vulnerability management team member will work with the release and PR team to coordinate the publication of the security advisory.
+    like to be involved and whether they would like to be credited. For credit, the GitHub security advisory UI has a field that allows contributors to       be credited.
+11. When the security issue is resolved, vulnerability management team member will work with the release and PR team to coordinate the publication of the     security advisory.
 
 ## Receiving security updates
 
