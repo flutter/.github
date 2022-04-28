@@ -55,7 +55,7 @@ One must be the repo admin to do this. Vulnerability management team members who
 management team members are @Hixie and @tvolkert.
 6. Reach out to the reporter to ask them if they would like to be involved and whether they would like to be credited. 
 For credit, the GitHub security advisory UI has a field that allows contributors to be credited.
-7. Add the vulnerability reporter, relevant team lead and fix owner to the security advisory [Add the reporter](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/adding-a-collaborator-to-a-security-advisory) to the security advisory so that they can get updates.
+7. Add the [vulnerability reporter](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/adding-a-collaborator-to-a-security-advisory), relevant team lead and fix owner to the security advisory so that they can get updates.
 8. If the security issue does not yet have a CVE number, as a Googler, request one from go/cve-request. Every security advisory will have a CVE number.
 9. Reopen [Issue 72555](https://github.com/flutter/flutter/issues/72555) to ensure that security vulnerabilities
 will be checked during critical triage.
