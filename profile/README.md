@@ -26,5 +26,4 @@ The Flutter project has a number of repositories, some important ones include:
 * [plugins](https://github.com/flutter/plugins): the Flutter plugins maintained by the Flutter team, such as [camera](https://pub.dev/packages/camera) and [webview_flutter](https://pub.dev/packages/webview_flutter).
 * [samples](https://github.com/flutter/samples): examples of Flutter applications for your enjoyment and edification.
 * [tests](https://github.com/flutter/tests): a repository for you to submit your application's tests to ensure that breaking changes don't affect your application.
-* [website-cms](https://github.com/flutter/website-cms): the source for our landing page, https://flutter.dev/.
 * [website](https://github.com/flutter/website): the source for our documentation site, https://docs.flutter.dev/.
