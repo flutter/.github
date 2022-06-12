@@ -73,4 +73,3 @@ Flutter does not have a bug bounty program.
 - For more information on security advisories, see 
 [the GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/managing-security-vulnerabilities-in-your-project).
 
-**If team members from other organizations would like their team's playbook listed here for their reference (even if it is not a public resource), please submit a PR.**
