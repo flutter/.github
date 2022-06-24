@@ -35,7 +35,7 @@ Before you get started, we encourage you to read these documents which describe 
 Helping out in the issue database
 ---------------------------------
 
-Triage is the process of going through bugs and determining if they are valid, finding out
+Triage is the process of going through bug reports and determining if they are valid, finding out
 how to reproduce them, catching duplicate reports, and generally making our issues list
 useful for our engineers.
 
@@ -68,19 +68,19 @@ If you want to help us triage, you are very welcome to do so!
 Quality Assurance
 -----------------
 
-One of the most useful tasks, closely related to triage, is finding and filing bugs. Testing
+One of the most useful tasks, closely related to triage, is finding and filing bug reports. Testing
 beta releases, looking for regressions, creating test cases, adding to our test suites, and
 other work along these lines can really drive the quality of the product up. Creating tests
 that increase our test coverage, writing tests for issues others have filed, all these tasks
 are really valuable contributions to open source projects.
 
-If this interests you, you can jump in and submit bugs without needing anyone's permission!
+If this interests you, you can jump in and submit bug reports without needing anyone's permission!
 The #qa channel on our [Discord server](https://github.com/flutter/flutter/wiki/Chat)
 is a good place to talk about what you're doing. We're especially eager for QA testing when
-we announce a beta release, see https://github.com/flutter/flutter/wiki/Quality-Assurance for
+we announce a beta release. See https://github.com/flutter/flutter/wiki/Quality-Assurance for
 more details.
 
-If you want to contribute test cases, you can also submit PRs, see the next section
+If you want to contribute test cases, you can also submit PRs. See the next section
 for how to set up your development environment, or ask in #hackers-test on Discord.
 
 > As a personal side note, this is exactly the kind of work that first got me into open
