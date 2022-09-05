@@ -30,7 +30,7 @@ The Flutter project has a number of repositories, some important ones include:
 
 ## Stack
 
-The flutter project has a number of stacks as languages used in the project development. They consists:
+The flutter project has a number of stacks as languages used in the project development. The top ones consist:
 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
