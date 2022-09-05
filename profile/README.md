@@ -27,3 +27,14 @@ The Flutter project has a number of repositories, some important ones include:
 * [samples](https://github.com/flutter/samples): examples of Flutter applications for your enjoyment and edification.
 * [tests](https://github.com/flutter/tests): a repository for you to submit your application's tests to ensure that breaking changes don't affect your application.
 * [website](https://github.com/flutter/website): the source for our documentation site, https://docs.flutter.dev/.
+
+## Stack
+
+The flutter project has a number of stacks as languages used in the project development. They consists:
+
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
