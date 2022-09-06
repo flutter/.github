@@ -33,8 +33,8 @@ The Flutter project has a number of repositories, some important ones include:
 The flutter project has a number of stacks as languages used in the project development. The top ones consist:
 
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  <a href="https://www.dart.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://isocpp.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank" rel="noopener noreferrer"></a>
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
