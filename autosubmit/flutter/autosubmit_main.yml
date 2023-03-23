@@ -17,5 +17,5 @@ approval_group: flutter-hackers
 run_ci: true
 support_no_review_revert: true
 required_checkruns:
-  “ci.yaml validation”
+  - “ci.yaml validation”
 
