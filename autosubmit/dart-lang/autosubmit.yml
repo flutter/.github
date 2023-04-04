@@ -1,0 +1,22 @@
+# Copyright 2023 The Flutter Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+default_branch: master
+issues_repository:
+  owner: dart-lang
+  repo: pubspec_parse
+auto_approval_accounts:
+  - dependabot[bot]
+  - dependabot
+  - DartDevtoolWorkflowBot
+approving_reviews: 2
+# need to provide this if possible or we need to accept that there is no group
+approval_group: flutter-hackers
+run_ci: true
+support_no_review_revert: true
+required_checkruns:
+  - "cla/google"
+  - "analyze (dev)"
+  - "test (ubuntu-latest, 2.18.0)"
+  - "test (ubuntu-latest, dev)"
