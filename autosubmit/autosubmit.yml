@@ -2,7 +2,7 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
-default_branch: main
+allow_config_override: true
 issues_repository:
   owner: flutter
   repo: flutter
@@ -16,6 +16,6 @@ approving_reviews: 2
 approval_group: flutter-hackers
 run_ci: true
 support_no_review_revert: true
-required_checkruns:
+required_checkruns_on_revert:
   - "ci.yaml validation"
 
