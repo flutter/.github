@@ -2,7 +2,7 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
-allow_config_override: true
+allow_config_override: false
 issues_repository:
   owner: flutter
   repo: flutter
