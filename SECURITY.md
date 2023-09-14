@@ -59,13 +59,21 @@ For credit, the GitHub security advisory UI has a field that allows contributors
 9. Reopen [Issue 72555](https://github.com/flutter/flutter/issues/72555) to ensure that security vulnerabilities
 will be checked during critical triage.
 10. Work with the release and PR team to coordinate the publication of the security advisory.
+11. Recommend to the reporter that they file their report through [g.co/vulnz](https://g.co/vulnz) to qualify for Google's Bug Hunters bounty program, including the link to the GitHub security advisory, and CVE number when available.
+
+## Bug Bounty programs
+
+Contributing teams are welcome to include Flutter within the scope of their bug bounty programs.
+To have your program listed, please contact `security@flutter.dev`.
+
+Google considers Flutter to be in scope for the [Google Open Source Software Vulnerability Reward Program](https://bughunters.google.com/open-source-security).
+For expediency we ask that reporters please contact `security@flutter.dev` before using Google's vulnerability reporting flow,
+as described above.
 
 ## Receiving security updates
 
 The best way to receive security updates is to subscribe to the [flutter-announce](https://groups.google.com/g/flutter-announce) mailing list or updates to the Discord [channel](https://discord.com/channels/608014603317936148/608116355836805126).
 We will also announce security advisories in the technical release blog post.
-
-Flutter does not have a bug bounty program.
 
 ## References
 - If team members need additional help, as a Googler they can review [Dash Security Playbook](https://docs.google.com/document/d/1tz3FUpXwDN-HbRFxc46S-bSx4XWwFUDJB8tnORyPJbk/edit#)
