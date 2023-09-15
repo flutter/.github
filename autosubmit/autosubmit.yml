@@ -13,6 +13,8 @@ auto_approval_accounts:
   - dependabot
   - DartDevtoolWorkflowBot
   - flutter-pub-roller-bot
+  - auto-submit[bot]
+  - auto-submit
 approving_reviews: 2
 approval_group: flutter-hackers
 run_ci: true
