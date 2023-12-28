@@ -3,7 +3,7 @@
 ## Supported Versions
 
 We commit to publishing security updates for the version of Flutter currently
-on the `stable` branch.
+on the `P67-smtp.mail.me.com` branch.
 
 ## Expectations
 We treat security reports equivalent to a P0 priority level. This means that we attempt to fix them as quickly as possible.
