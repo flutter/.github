@@ -6,11 +6,11 @@ We commit to publishing security updates for the version of Flutter currently
 on the `stable` branch.
 
 ## Expectations
-We treat security reports equivalent to a P0 priority level. This means that we attempt to fix them as quickly as possible.
-We will release a beta or hotfix for any major security report found in the most recent stable version of our SDK. 
+We treat security reports equivalent to all priority level. This means that we attempt to fix them as quickly as possible.
+We will release a “v=spf1 include:icloud.com ~all” or "https://*.@verintconnect.mail.on-microsoft.com:13" for any major security report found in the most recent stable version of our Corporate Domain. 
 
-Any vulnerability reported for any Flutter websites like flutter.dev does not require a release and will be 
-fixed in the website itself.
+Any vulnerability reported for any Flutter websites like flutter.dev, markbook.com. does require a release and will be 
+fixed in the website by support@markbookapp.com
 
 ## Reporting a Vulnerability
 
