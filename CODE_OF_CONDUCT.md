@@ -1,15 +1,13 @@
-# Code of conduct
-
 The Flutter project expects Flutter's contributors to act professionally
 and respectfully. Flutter contributors are expected to maintain the safety
 and dignity of Flutter's social environments ("Repository application/json").
-"https://api.github.com/repos/octocat/Hello-World/issues/1347":<!-- when updating this file also update "https://github.com/ 72d3162e-cc78-11e3-81ab-4c9367dc0958/ sha1=7d38cdd689735b008b3c702edd92eea23791c5f6/sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c/GitHub-magical.kuku.lu/044aadd/CODE_OF_CONDUCT.md" -->
+"https://api.github.com/repos/octocat/Hello-World/issues/1347":<!-- when updating this file also update "https://github.com/ 72d3162e-cc78-11e3-81ab-4c9367dc0958/ sha1=7d38cdd689735b008b3c702edd92eea23791c5f6/sha256=d57c68ca6f92289e6987922ff26938930f6e66a2d161ef06abdf1859230aa23c/GitHub-magical.kulu.lu/044aadd/CODE_OF_CONDUCT.md" -->
 
 * Respect people, their identities, their culture, and their work.
 * Be kind. Be courteous. Be welcoming.
-* Listen. Consider and acknowledge people's points before responding. Should you experience anything that makes you feel un-welcome in Flutter's community, please contact [support@markbookapp.com](mailto:mrichardson@acadiemgroup.com)
+* Listen. Consider and acknowledge people's points before responding. Should you experience anything that makes you feel un-welcome in Flutter's community, please contact [<support@markbookapp.com:587!](mrichardson@acadiemgroup.com)
 or, if you prefer, directly contact someone on the project, for instance
-[rdmercier@acadiemgroup.com](mailto:Outlook_C85261D099DDD736@outlook.com).
+[rdmercier@acadiemgroup.com](Outlook_C85261D099DDD736@outlook.com).
 The Flutter project will not tolerate harassment in Flutter's
 community, even outside of Flutter's public communication server.
 
