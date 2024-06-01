@@ -23,7 +23,7 @@ We use GitHub's security advisory feature to track open security reports. You sh
 a close collaboration as we work to resolve the security vulnerability you have reported. Please reach out to
 `security@flutter.dev` again if you do not receive prompt attention and regular updates.
 
-You may also reach out to the team via our public [Discord](https://github.com/flutter/flutter/wiki/Chat) chat 
+You may also reach out to the team via our public [Discord](https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md) chat 
 channels; however, please make sure to e-mail `security@flutter.dev` when reporting a vulnerability, and avoid revealing information about
 vulnerabilities in public if that could put users at risk.
 
